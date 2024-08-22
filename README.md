@@ -48,4 +48,4 @@ Issues on GitHub track bugs, suggest features and point out tasks. Project board
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
 Answer:
-New GitHub users might face challenges like merge conflicts or confusing commit messages. To avoid such confusion, it is advised to commit clear and regular, naming branches with description ease to recall and communicate often with your team.
+New GitHub users might face challenges like merge conflicts or confusing commit messages. To avoid such confusion, it is advised to commit clear and regular, naming branches with description ease to recall and communicate often with your team and other developers.
